@@ -11,7 +11,7 @@
 
 语言:   纯java开发
 
-定位:   数据库迁移 (目前主要支持oracle / mysql / DRDS)
+定位:   数据库迁移 (目前主要支持oracle / mysql / DRDS / **PostgreSQL**)
 
 ## 项目介绍
 
